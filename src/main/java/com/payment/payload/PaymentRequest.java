@@ -6,6 +6,8 @@ public class PaymentRequest {
     private  String currency;
     private String name;
 
+    private String movie;
+
 
     public String getCurrency() {
         return currency;
