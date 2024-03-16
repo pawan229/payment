@@ -4,6 +4,7 @@ public class PaymentRequest {
 
     private long amount;
     private  String currency;
+    private String name;
 
 
     public String getCurrency() {
